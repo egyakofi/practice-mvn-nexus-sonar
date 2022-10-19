@@ -10,9 +10,6 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		String name = "KofiTech";
 		System.out.printIn(name);
-
-		Integer age = "20";
-		System.out.printIn(age + 5);
 		
 	}
 
